@@ -5,7 +5,7 @@ blog:
   - Romanche Fracture Zone
 ---
 
-The **Romanche Fracture Zone**, is the third deepest trench of the Atlantic Ocean. It is believed to be the meeting point of deep Atlantic waters-originating from the North pole-and Antartic bottom waters, and hence an important place for mixing of the physical, chemical and biological properties of these two water masses. It is believed to be full of nutrients for deep-ocean life to thrive. 
+The **Romanche Fracture Zone**, is the third deepest trench of the Atlantic Ocean and sits roughly at the Equator. It is believed to be the meeting point of deep Atlantic waters-originating from the North pole-and Antartic bottom waters, and hence an important place for mixing of the physical, chemical and biological properties of these two water masses. It is believed to be full of nutrients for deep-ocean life to thrive. 
 
 In october 2026, I had the chance to take part in a research expedition on board Falkor (too)—the research vessel of the Schmidt Ocean Institute—with a team of 25 biologists, geologists and physical oceanagraphers to go check this hypothesis, **further our understanding of water mass mixing in the Romanche Fracture Zone, and explore benthic life in this region**. 
 
