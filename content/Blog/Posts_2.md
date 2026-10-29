@@ -1,5 +1,6 @@
 ---
 title: A regional model of the Romanche Fracture Zone
+date: '2026-10-29'
 blog:
   - Romanche Fracture Zone
 ---
