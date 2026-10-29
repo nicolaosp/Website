@@ -9,7 +9,7 @@ The **Romanche Fracture Zone**, is the third deepest trench of the Atlantic Ocea
 
 In october 2026, I had the chance to take part in a research expedition on board Falkor (too)—the research vessel of the Schmidt Ocean Institute—with a team of 25 biologists, geologists and physical oceanagraphers to go check this hypothesis, **further our understanding of water mass mixing in the Romanche Fracture Zone, and explore benthic life in this region**. 
 
-![Falkor (too)](../Images/Falkor_too.JPG)
+![Falkor (too)](https://nicolaosp.github.io/Website/Images/Falkor_too.JPG)
 *Research vessel Falkor (too).*
 
 While on board, I developed a regional model of the Romanche Fracture Zone that includes both dynamical and biogeochemical processes. The model is based on the [NumericalEarth](https://github.com/NumericalEarth) framework that allows for the development of flexible simulations coupling the atmosphere, ocean, and land systems. Thanks to the NumericalEarth for putting together such a powerful tool. 
