@@ -24,11 +24,11 @@ crucial importance for many environmental and industrial applications. Mixing is
 
 **Description**
 
-[**Nicolaos Petropoulos**, Miles M. P. Couchman, Ali Mashayek, Stephen M. de Bruyn Kops and Colm-cille P. Caulfield. ‘Prandtl number effects on extreme mixing events in forced stratified turbulence’ Journal of Fluid Mechanics 983 (2024): R1.](Publications/settling_versus_mixing_in_stratified_shear_flows.pdf) 
+[**Nicolaos Petropoulos**, Miles M. P. Couchman, Ali Mashayek, Stephen M. de Bruyn Kops and Colm-cille P. Caulfield. ‘Prandtl number effects on extreme mixing events in forced stratified turbulence’ Journal of Fluid Mechanics 983 (2024): R1.](Publications/prandtl_number_effects_on_extreme_mixing_events_in_forced_stratified_turbulence.pdf) 
 
 **Description**
 
-[**Nicolaos Petropoulos**, Colm-cille P. Caulfield, Patrice Meunier, Emmanuel Villermaux. ‘Settling versus mixing in stratified shear flows’ Journal of Fluid Mechanics 974 (2023): R1.](Publications/prandtl_number_effects_on_extreme_mixing_events_in_forced_stratified_turbulence.pdf)
+[**Nicolaos Petropoulos**, Colm-cille P. Caulfield, Patrice Meunier, Emmanuel Villermaux. ‘Settling versus mixing in stratified shear flows’ Journal of Fluid Mechanics 974 (2023): R1.](Publications/settling_versus_mixing_in_stratified_shear_flows.pdf)
 
 **Description**
 
