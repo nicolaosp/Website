@@ -7,7 +7,7 @@ blog:
 
 Mixing describes the **irreversible** time-evolution of a scalar field from a partitioned state to a fully homogeneous one, as it is stirred by some velocity field. Here, the scalar field we consider is density, and the stirring velocity is some flavour of turbulence. 
 
-![Stirring, mixing](/Images/Mixing/figure_description_stirring_mixing.jpg)
+![Stirring, mixing](https://nicolaosp.github.io/Website/Images/Mixing/figure_description_stirring_mixing.jpg)
 *Stirring and mixing a box filled with two densities `$\rho_{1}$` and `$\rho_{2}$`.*
 
 As the scalar field is mixed, the probability of finding a density `$\rho$` in the box (denoted `$p(\rho)$`) evolves. In the case depicted above, we have initially `$p(\rho) = \delta(\rho - \rho_{1}) + \delta(\rho - \rho_{2})$`. Here `$\delta$` is the Dirac distribution. As time evolve
@@ -23,7 +23,7 @@ Here, we pursue a route that is **agnostic to the small-scale stirring protocols
 
 In particular, I view a stratified and turbulent flow as a collection of ‘small’ entities (Lagrangian fluid parcels, also called 'lamellae' here) carrying a given density level and momentum. These fluid parcels are energised by turbulent energy; in other words, turbulence acts as a ‘thermostat’. Reformulated in this way, a density field stirred and mixed by turbulence is just an out-of-equilibrium large assembly of smaller constituents (the lamellae) to which I applied the tools of non-equilibrium statistical mechanics. Let's dig into more of the details now. 
 
-![Stratified flow as a collection of lamellae](/Images/Mixing/figure_lamellar_vision.png)
+![Stratified flow as a collection of lamellae](https://nicolaosp.github.io/Website/Images/Mixing/figure_lamellar_vision.png)
 *A density field as a collection of lamellae.* 
 
 In the figure above, we present a density field stirred by turbulence. Red corresponds to a fluid parcel that is denser than a set background density field; blue correspond to a parcel that is less dense than the background. The small-scale elongated structures are what we call 'lamellae'. They carry a given density level: 

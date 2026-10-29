@@ -18,7 +18,7 @@ I designed a coupled atmosphere-ocean simulation. The atmosphere is prescribed b
 
 The model runs on GPU; a few months of simulations only need a few hours of compute on a single GPU (NVIDIA® GeForce RTX™ 5060 8GB GDDR7). I was able to run the model while onboard, update it daily to cater the needs of the research team. Importantly, the model was instrumental in refining the sampling strategies. 
 
-![Surface fields BGC](/Images/Surface_fields_BGC.jpg)
+![Surface fields BGC](https://nicolaosp.github.io/Website/Images/Surface_fields_BGC.jpg)
 *Surface biogeochemical fields, as predicted by the model.*
 
 The code is available on [Github](https://github.com/nicolaosp/LifeRomancheFractureZone). 
