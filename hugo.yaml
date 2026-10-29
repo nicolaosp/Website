@@ -1,0 +1,57 @@
+baseurl: "https://example.org/"  # please update this to your actual URL
+locale: "en-us"
+title: "Nicolaos Petropoulos"
+theme: "xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: About
+      url: ""
+      weight: 1
+    - name: Publications
+      url: "publications/"
+      weight: 2
+    - name: Blog
+      url: "blog/"
+      weight: 3
+    - name: Little Goat
+      url: "littlegoat/"
+      weight: 4
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; Nicolaos Petropoulos {Year} | [Github](https://github.com/nicolaosp) | [LinkedIn](www.linkedin.com/in/nicolaos-petropoulos-99157616b) | [Scholar](https://scholar.google.com/citations?user=WInu7AwAAAAJ&hl=fr&oi=ao)"
+
+security:
+  allowContent: ['.*']
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+
+caches:
+  images:
+    dir: :cacheDir/images
