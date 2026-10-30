@@ -28,7 +28,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; Nicolaos Petropoulos {Year} | [Github](https://github.com/nicolaosp) | [LinkedIn](www.linkedin.com/in/nicolaos-petropoulos-99157616b) | [Scholar](https://scholar.google.com/citations?user=WInu7AwAAAAJ&hl=fr&oi=ao)"
+  footer: "&copy; Nicolaos Petropoulos {Year} | [Github](https://github.com/nicolaosp) | [LinkedIn](https://www.linkedin.com/in/nicolaos-petropoulos-99157616b) | [Scholar](https://scholar.google.com/citations?user=WInu7AwAAAAJ&hl=fr&oi=ao)"
 
 security:
   allowContent: ['.*']
