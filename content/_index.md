@@ -7,7 +7,7 @@ title: About
 # Nicolaos Petropoulos
 
 I am a researcher working at the intersection of applied mathematics and geophysical fluid mechanics. I used a hierarchy of methods—theory,
-idealised laboratory experiments, direct numerical simulations, in-situ observations—and tools from dynamical system theory, stochastic processes, statistical mechanics, and machine learning to develop predictive surrogate model for chaotic, turbulent, and geophysical fluid flows.
+idealised laboratory experiments, direct numerical simulations, in-situ observations—and tools from dynamical system theory, stochastic processes, statistical mechanics, and machine learning to develop predictive surrogate models for chaotic, turbulent, and geophysical fluid flows.
 
 My current work focuses on transport, dispersion and mixing in the stratified ocean. These processes have a major impact on phenomena like large-scale ocean circulation and biological productivity. They are also key to understanding carbon dioxide, pollutants, and microplastics pathways. 
 
