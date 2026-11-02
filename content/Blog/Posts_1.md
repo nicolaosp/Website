@@ -19,6 +19,8 @@ Why is `$t_{\ast}$` important? Getting a scaling law for `$t_{\ast}$` in terms o
 
 Common parameterisations rely on the fact that mixing might be tied to some kind of overturning process: a Kelvin-Helmotz billow breaks down into turbulence that stirs and eventually mixes density pertubations. There is however no evidence that ocean mixing rely solely on such instabilies. In fact, following that line of though might [miss](/publications/Publications/Applicability_stability_based_paradigm_mixing.pdf) a lot of mixing in the interior. 
 
+Most importantly, they seem to miss extreme mixing events, i.e. large scalar concentrations that live [longer than average](/publications/Publications/Finite_time_Lyapunov_exponents.pdf), supporting the need to **model the time-evolution of the full distribution of scalar concentration `$p(\rho)$`**. 
+
 Here, we pursue a route that is **agnostic to the small-scale stirring protocols**—wave breaking, billows, or overturns. We argue that the coarse-grained properties of a the density field (described by `$p(\rho)$`) as it is stirred and mixed are somewhat general. This route follows common ideas of **statistical mechanics**. 
 
 In particular, we view a stratified and turbulent flow as a collection of ‘small’ entities (Lagrangian fluid parcels, also called 'lamellae' here) carrying a given density level and momentum. These fluid parcels are energised by turbulent energy; in other words, turbulence acts as a ‘thermostat’. Reformulated in this way, a density field stirred and mixed by turbulence is just an out-of-equilibrium large assembly of smaller constituents (the lamellae) to which we applied the tools of statistical mechanics. Let's dig into more of the details now. 
